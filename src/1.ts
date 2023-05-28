@@ -9,6 +9,7 @@ const nums2 = [3, 2, 4],
 const nums3 = [3, 3],
   target3 = 6;
 
+// Function
 // 5/26/23 - Accepted
 // Runtime 499 ms    Beats 5.1%
 // Memory 49.5 MB    Beats 5.8%

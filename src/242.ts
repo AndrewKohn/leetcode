@@ -9,6 +9,7 @@ const s2 = 'rat',
 const s3 = 'rac',
   t3 = 'car';
 
+// Function
 // 5/26/23 - Accepted
 // Runtime 108 ms   Beats 26.7%
 // Memory 48.1 MB   Beats 37.75%

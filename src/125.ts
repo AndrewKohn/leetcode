@@ -6,6 +6,7 @@ const s1 = 'A man, a plan, a canal: Panama';
 const s2 = 'race a car';
 const s3 = ' ';
 
+// Function
 // 5/26/23 - Accepted
 // Runtime 89 ms    Beats 21.44%
 // Memory 47.1 MB   Beats 48.22%
