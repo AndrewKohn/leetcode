@@ -1,0 +1,18 @@
+{
+  "name": "leetcode",
+  "description": "leetcode attempts and submissions",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "build": "rimraf dist && npx tsc",
+    "file": "node --loader ts-node/esm -e \"import('./typescript/' + process.env.FILE + '.ts')\"",
+    "watch": "nodemon --watch typescript --ext ts --exec \"npm run file\""
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4",
+    "rimraf": "^6.0.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
