@@ -1,10 +1,12 @@
-# leetcode
+<h1 align="center">leetcode</h1>
+<h4 align="center">Just leetcode stuff, what else is there to say?</h4>
 
 ## Dependencies
 TypeScript:
 - `typescript`
 - `rimraf`
 - `ts-node`
+- `nodemon`
 
 ## How to run
 Typescript:
