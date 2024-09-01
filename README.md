@@ -11,7 +11,8 @@ TypeScript:
 ## How to run
 Typescript:
 - `npm run file` & `npm run watch` takes one argument in order to function correctly.
-- replace [FILENAME] with the file you wish to run
+- replace `[FILENAME]` with the file you wish to run
+  - e.g. `FILE=1234 npm run watch`
 
 `npm run file` : Run file on single instance
 ```
